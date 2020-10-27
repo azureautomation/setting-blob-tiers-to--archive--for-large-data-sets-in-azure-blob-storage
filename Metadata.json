@@ -1,0 +1,20 @@
+{
+    "Author": "Brendan Leddy",
+    "ContentSize": 2496,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setting-blob-tiers-to-'archive'-for-large-data-sets-in-azure-blob-storage/master/setblobtier_archive.ps1",
+    "DownloadCount": 758,
+    "Id": "Setting-Blob-Tiers-to-1a3571fd",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 595,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-3-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "I created this script for a client who wanted to change their off-site backups from Tapes to Azure Blob storage. The total amount of data to be migrated to Azure was approximately 40TB and for this to align appropriately with their on-premise storage structure, we would spread",
+    "Title": "Setting Blob Tiers to 'Archive' for large data sets in Azure Blob Storage",
+    "UpdatedDate": "2018-3-28T00:00:00",
+    "Url": "https://github.com/azureautomation/setting-blob-tiers-to-'archive'-for-large-data-sets-in-azure-blob-storage",
+    "UserTags": "Azure Blob Storage, Archive Tier"
+}
